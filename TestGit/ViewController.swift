@@ -10,10 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var gitTest  = true;
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         print("updated this view")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
